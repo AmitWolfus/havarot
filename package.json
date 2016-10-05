@@ -1,0 +1,28 @@
+{
+  "name": "havarot",
+  "version": "1.0.1",
+  "description": "search module for israel's companies registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitWolfus/havarot.git"
+  },
+  "keywords": [
+    "havarot"
+  ],
+  "author": "Amit Wolfus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitWolfus/havarot/issues"
+  },
+  "homepage": "https://github.com/AmitWolfus/havarot#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "lodash": "^4.16.3",
+    "request": "^2.34",
+    "request-promise-native": "^1.0.3"
+  }
+}
