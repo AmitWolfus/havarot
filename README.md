@@ -22,7 +22,7 @@ bankotsar({
 ```js
 const havarot = require('havarot');
 
-bankotsar({
+havarot({
   number: '111111215'
 }).then(function (companies) {
   // companies is still an array

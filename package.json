@@ -1,6 +1,6 @@
 {
   "name": "havarot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "search module for israel's companies registry",
   "main": "index.js",
   "scripts": {
